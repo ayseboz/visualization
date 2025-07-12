@@ -10,7 +10,21 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good Visualization example ; https://public.tableau.com/app/profile/ben.norland/viz/GlobalVulnerabilityIndex/GlobalVulnerabilityIndex
+      Aesthetic Quality ;The map is visually clean and uses color gradient. The color is from dark to light makes intuitive sense
+      Substantive quality; Labels are placed clearly.
+      The visualization includes references to data sources
+      Each country can be hovered over for specific value it is reporoducible.
+      Perceptual Quality; It gives a quick, intuitive understanding of which regions are more vulnerable
+      The visualization is effective and ethical and supports aesthetic, ethical,perceptual quality.
+
+      Bad Visualization example;  https://public.tableau.com/app/profile/energy.markets/viz/IndustryConsolidationStackedChart/ENGDashboard
+
+      Aesthetic Quality; the format is visually overwhelming.Numerous bands tightly squeezed together over time create a chaotic look.Too many similar hues—makes it hard to track individual companies.
+      Substantive Quality; We don’t know which industries are consolidated, or the criteria for inclusion.
+      No indication of the data source, time span, or definitions of companies. Without this, transparency and credibility are compromised.
+      Perceptual Quality; Detecting changes over time for individual companies requires effort and visual isolation, which the stacked format doesn’t support.
+      It is hard to trace size and it makes easy to misjudge relative sizes.
 
 
 
@@ -21,7 +35,10 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Limit the number of companies shown.
+      Choose distinct colors or a diverging palette to improve discriminability.
+      Using different chart maybe graph to see changes over the years
+      Include clear labels and provide source details.
 
 
 
